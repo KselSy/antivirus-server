@@ -1,0 +1,7 @@
+﻿  Server.cpp
+f:\antivirus\server\server\server\server.cpp(22): warning C4101: imaxabs: неиспользованная локальная переменная
+f:\antivirus\server\server\server\server.cpp(16): warning C4101: pchResponse: неиспользованная локальная переменная
+f:\antivirus\server\server\server\server.cpp(13): warning C4101: dwBytesWrite: неиспользованная локальная переменная
+f:\antivirus\server\server\server\server.cpp(15): warning C4101: nMessageLength: неиспользованная локальная переменная
+f:\antivirus\server\server\server\server.cpp(21): warning C4101: iminabs: неиспользованная локальная переменная
+  Server.vcxproj -> F:\AntiVirus\Server\Server\Debug\Server.exe
